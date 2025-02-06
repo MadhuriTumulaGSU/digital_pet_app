@@ -4,6 +4,7 @@ void main() {
   runApp(MyApp());
 }
 
+//chicken rice is amazing
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
